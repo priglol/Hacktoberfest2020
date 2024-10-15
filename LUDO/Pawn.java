@@ -9,9 +9,9 @@ public class Pawn {
 	int current;
 	int height,width;
 	public Pawn(int h,int w){
-		current=-1;
-		x=-1;
-		y=-1;
+		current=-4;
+		x=-2;
+		y=-2;
 		height=h;
 		width=w;
 	}
