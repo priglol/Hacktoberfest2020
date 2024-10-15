@@ -14,7 +14,7 @@ int main()
     cout<<obj1.front()<<endl;                  // will always return the first value of the array. 
     cout<<obj1.back()<<endl;                  // will always return the last value of the array.
 
-    obj1.fill(10);                         // will store value 10 at ALL INDEXES..
+    obj1.fill(10);                         // will store value 10 at ALL INDEXES.
     cout<<endl;
 
     for(int i=0;i<6;i++)
